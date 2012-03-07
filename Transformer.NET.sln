@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transformer.NET", "Transformer.NET.csproj", "{EE88A8AB-B4F0-4D9D-ACD4-819120613B83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transformer.NET", "Transformer.NET\Transformer.NET.csproj", "{EE88A8AB-B4F0-4D9D-ACD4-819120613B83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
